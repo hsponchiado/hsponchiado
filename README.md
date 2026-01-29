@@ -28,18 +28,16 @@
       
 <blockquote>
 
-I'm a first year student at Queen's University, with a deep interest for AI and Machine Learning. I enjoy building my technical skills through hands on projects and constant trial and error.
+I'm a first year student at Queen's University, with a deep interest for AI and Machine Learning. I enjoy building my skills through hands on projects and constant trial and error.
 
 I like working on software that challenges me and helps me grow as a developer.
-I’m always looking to learn new tools, improve my problem-solving, and understand how intelligent systems work.
+I’m always looking to learn new tools, improve my problem solving, and simply understand how intelligent systems work.
 
 Also...
 
 I’ve lived in five different countries. 🇧🇷🇹🇭🇵🇹🇫🇮🇨🇦
 
 My favorite movie is Kill Bill. 💛🗡️🩸
-
-My favorite video game is ARK: Survival Evolved. 🦖🦤🦕
 
 My favorite band is Deftones. 🎸🔊🐾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
