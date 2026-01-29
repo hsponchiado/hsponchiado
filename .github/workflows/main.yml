@@ -11,3 +11,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          user: hsponchiado
+          template: classic
+          base: activity, community
+          config_timezone: America/Toronto
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
