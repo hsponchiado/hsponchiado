@@ -51,7 +51,6 @@ My favorite band is Deftones. 🎸🔊🐾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 
 
 <!-- Tech Stack -->  
-<!-- Tech Stack -->
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
   <p>
@@ -59,7 +58,7 @@ My favorite band is Deftones. 🎸🔊🐾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 | **Category** | **Technologies** |
 | - | - |
 **Languages** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://www.javascript.com/) [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=cplusplus&logoColor=FFFFFF)](https://isocpp.org/)
-**Web Basics** | [![HTML](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+**Web Basics** | <img src="https://github.com/CSS-Next/logo.css/raw/main/css.svg" alt="CSS Logo" width="40"> [![HTML](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 **Backend / Runtime** | [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
 **Data & Analysis** | [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/)
 
@@ -67,6 +66,7 @@ My favorite band is Deftones. 🎸🔊🐾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 
   </p>
 </details>
+
 
   
 
