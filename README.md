@@ -78,7 +78,6 @@ My favorite band is Deftones. 🎸🔊🐾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 
 </details>
 
-<p align="center"><a href="https:parastus.me</sub></sup></a></p>
 
 <!--
 
