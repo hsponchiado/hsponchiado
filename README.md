@@ -73,7 +73,7 @@ My favorite band is Deftones. 🎸🔊🐾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 
 <!-- Snek -->   
 <p align="center">
-<a title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<a title="Snek 🐍"><img width="500" src="![Snake animation](https://github.com/hsponchiado/hsponchiado/blob/output/github-snake-dark.svg)" /></a>
 </p>
 
 </details>
