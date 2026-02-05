@@ -69,7 +69,6 @@ My favorite band is Deftones. 🎸🔊🐾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 
 
 ![Snake animation](https://github.com/hsponchiado/hsponchiado/blob/output/github-snake-dark.svg)
-
 <!--
 
 <details>
